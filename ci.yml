@@ -9,8 +9,6 @@ on:
       - release**
     paths-ignore:
       - 'README.md'
-      - 'doc/**'
-      - 'fastlane/**'
       - 'assets/**'
       - '.github/**/*.md'
       - '.github/FUNDING.yml'
